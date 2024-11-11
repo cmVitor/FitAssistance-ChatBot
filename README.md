@@ -1,5 +1,5 @@
 
-### ds_20242_g5
+## ds_20242_g5
 
 Repositório definido para a manutenção do controle de versão dos artefatos do projeto de do Grupo 5, da Disciplina de Domínios de Software, no semestre 2024-2.
 
@@ -38,4 +38,5 @@ Este projeto será desenvolvido pelos componentes do grupo 5:
 | Matrícula | Nome | Usuário | Git |
 | ---------- | ---------- | ---------- | ---------- |
 | 202201717 | Vitor Castanheira | cmVitor | [cmVitor](https://github.com/cmVitor)|
+| 201905543 | Mateus da Silveira | MateusSilver | [MateusSilver](https://github.com/MateusSilver) |
 
