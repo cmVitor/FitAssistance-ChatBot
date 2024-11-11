@@ -115,7 +115,7 @@ História do Usuário: Testes e Avaliação de Resposta
 ## Cronograma de Desenvolvimento
 
 | Iteração | Fase | Data Início | Data Fim | Duração |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| ---------- | ---------- | ---------- | ---------- | ---------- | 
 | 1 | Revisão dos Requisitos | 11/10/2024 | 13/10/2024 | 3 dias |
 | 2 | Coleta de Dados |14/10/2024|28/10/2024 | 2 semanas |
 | 3 | Design e Des. Front-End | 29/10/2024 | 12/11/2024 | 2 semanas |
