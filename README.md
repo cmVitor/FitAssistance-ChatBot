@@ -112,6 +112,30 @@ História do Usuário: Testes e Avaliação de Resposta
 7.  **RNF007 - Conectividade**: O sistema deve suportar conectividade com a Internet de baixa qualidade e garantir a integridade da sessão do usuário. Deve ser projetado para funcionar em uma variedade de redes e se recuperar de falhas de conexão.
 
 
+## Modelo Arquitetural
+Geração Aumentada de Contexto (RAG)
+Pipeline de Pré Processamento
+LLama (Meta)
+
+### RAG:
+![](https://media.licdn.com/dms/image/sync/v2/D4D27AQH8VPPJRZFEHQ/articleshare-shrink_480/articleshare-shrink_480/0/1724361076743?e=1732114800&v=beta&t=t3_QTB6WwkJBQvRMT47qLhkbs6Zf01AXrmr-BVyk1Xw)
+
+
+## Modelo de Interfaces Gráficas
+Streamlit (Python)
+User text input
+Histórico de conversa
+Sidebar (informacional)
+
+
+## Tecnologia de persistência de dados
+Iremos utilizar: ChromaDB (Vetorial para documentos) e MongoDB (Persistência de conversas).
+
+
+## Local do Deploy
+O nosso planejamento inicial é hospedar nossa aplicação em um Servidor Linux com GPU.
+
+
 ## Cronograma de Desenvolvimento
 
 | Iteração | Fase | Data Início | Data Fim | Duração |
