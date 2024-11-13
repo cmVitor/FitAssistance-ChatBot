@@ -113,19 +113,14 @@ História do Usuário: Testes e Avaliação de Resposta
 
 
 ## Modelo Arquitetural
-Geração Aumentada de Contexto (RAG)
-Pipeline de Pré Processamento
-LLama (Meta)
+Geração Aumentada de Contexto (RAG), Pipeline de Pré Processamento LLama (Meta).
 
 ### RAG:
 ![](https://media.licdn.com/dms/image/sync/v2/D4D27AQH8VPPJRZFEHQ/articleshare-shrink_480/articleshare-shrink_480/0/1724361076743?e=1732114800&v=beta&t=t3_QTB6WwkJBQvRMT47qLhkbs6Zf01AXrmr-BVyk1Xw)
 
 
 ## Modelo de Interfaces Gráficas
-Streamlit (Python)
-User text input
-Histórico de conversa
-Sidebar (informacional)
+Streamlit (Python), User text input, Histórico de conversa e Sidebar (informacional).
 
 
 ## Tecnologia de persistência de dados
