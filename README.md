@@ -7,7 +7,7 @@ Repositório definido para a manutenção do controle de versão dos artefatos d
 
 ## Nome do Projeto:
 
-ChatBot - Treinos Personalizados
+Fit Assistant - Treinos Personalizados
 
   
 
