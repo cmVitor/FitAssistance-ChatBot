@@ -7,7 +7,7 @@ Repositório definido para a manutenção do controle de versão dos artefatos d
 
 ## Nome do Projeto:
 
-ChatBot - Treinos Personalizados
+Fit Assistant - Treinos Personalizados
 
   
 
@@ -39,7 +39,7 @@ Este projeto será desenvolvido pelos componentes do grupo 5:
 | ---------- | ---------- | ---------- | ---------- |
 | 202201717 | Vitor Castanheira | cmVitor | [cmVitor](https://github.com/cmVitor)|
 | 201905543 | Mateus da Silveira | MateusSilver | [MateusSilver](https://github.com/MateusSilver) |
-| 202201692 | Guilherme Dutra | guilhermegdm | [guilhermegdm](https://github.com/guiilhermegdm) |
+| 202201692 | Guilherme Dutra | guiilhermegdm | [guiilhermegdm](https://github.com/guiilhermegdm) |
 | 202201708 | Mikael Borges | kamamijr | [kamamijr](https://github.com/kamamijr)
 | 202201712 | Samuel José | SamuelJEAlves | [SamuelJEAlves](https://github.com/SamuelJEAlves)|
 

@@ -1,0 +1,8 @@
+streamlit
+chromadb==0.5.4
+requests
+langchain
+python-dotenv
+langchain-community
+sentence-transformers
+pymongo
