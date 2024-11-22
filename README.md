@@ -112,11 +112,38 @@ História do Usuário: Testes e Avaliação de Resposta
 7.  **RNF007 - Conectividade**: O sistema deve suportar conectividade com a Internet de baixa qualidade e garantir a integridade da sessão do usuário. Deve ser projetado para funcionar em uma variedade de redes e se recuperar de falhas de conexão.
 
 
+## **Regras de Negócio**
+
+1. **Personalização dos Treinos**  
+   O chatbot deve gerar treinos personalizados com base nas preferências indicadas pelo usuário, como tipo de esporte, nível de habilidade e objetivos específicos (ex.: emagrecimento, ganho de massa muscular, melhora de resistência).
+
+2. **Suporte a Diversos Esportes**  
+   A aplicação deve oferecer suporte a treinos para pelo menos 5 esportes diferentes (ex.: futebol, basquete, vôlei, corrida, musculação), com possibilidade de expansão para novos esportes.
+
+3. **Interação Intuitiva**  
+   O chatbot deve ser capaz de interpretar perguntas ou comandos em linguagem natural, fornecendo respostas claras e fáceis de entender.
+
+4. **Persistência de Histórico de Conversas**  
+   As conversas com o usuário devem ser armazenadas no MongoDB para que o chatbot possa dar continuidade às interações com base no histórico do usuário.
+
+5. **Privacidade e Segurança**  
+   Nenhuma informação pessoal sensível será armazenada ou compartilhada com terceiros. O sistema deve estar em conformidade com normas de proteção de dados, como a LGPD (Lei Geral de Proteção de Dados).
+
+6. **Geração de Respostas com Base no Contexto**  
+   Utilizando a técnica de Geração Aumentada de Contexto (RAG), o chatbot deve combinar informações do histórico do usuário com os dados armazenados em ChromaDB para fornecer respostas contextualmente relevantes.
+
+7. **Treinos Baseados em Evidências**  
+   Todas as recomendações de treino devem ser baseadas em fontes confiáveis, previamente validadas pela equipe, garantindo precisão e confiabilidade.
+
+8. **Flexibilidade na Configuração de Preferências**  
+    O usuário pode atualizar ou redefinir suas preferências de treino a qualquer momento, e o chatbot deve refletir essas alterações imediatamente.
+
+
 ## Modelo Arquitetural
 Geração Aumentada de Contexto (RAG), Pipeline de Pré Processamento LLama (Meta).
 
 ### RAG:
-![](https://media.licdn.com/dms/image/sync/v2/D4D27AQH8VPPJRZFEHQ/articleshare-shrink_480/articleshare-shrink_480/0/1724361076743?e=1732114800&v=beta&t=t3_QTB6WwkJBQvRMT47qLhkbs6Zf01AXrmr-BVyk1Xw)
+![](https://www.codigofluente.com.br/wp-content/uploads/2023/11/rag.png)
 
 
 ## Modelo de Interfaces Gráficas
