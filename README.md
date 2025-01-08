@@ -167,6 +167,6 @@ O nosso planejamento inicial é hospedar nossa aplicação em um Servidor Linux 
 | 2 | Coleta de Dados |14/10/2024|28/10/2024 | 2 semanas | Concluído |
 | 3 | Design e Des. Front-End | 29/10/2024 | 12/11/2024 | 2 semanas | Concluído |
 | 4 | Desenvolvimento Back-End | 29/10/2024 | 19/11/2024 | 3 semanas | Concluído | 
-| 5 | Integração Front-End e Back-End | 19/11/2024 | 05/12/2024|2 semanas | Em andamento |
-| 6 | Testes e Ajustes Finais | 26/11/2024 | 05/12/2024 | 1 semana | Em andamento |
-| 7 | Doc. Final e Entrega | 26/11/2024 | 06/12/2024 | 1 semana e meia | Em andamento|
+| 5 | Integração Front-End e Back-End | 19/11/2024 | 05/12/2024|2 semanas | Concluído |
+| 6 | Testes e Ajustes Finais | 26/11/2024 | 05/12/2024 | 1 semana | Concluído |
+| 7 | Doc. Final e Entrega | 26/11/2024 | 06/12/2024 | 1 semana e meia | Concluído|
