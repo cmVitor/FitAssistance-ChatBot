@@ -1,7 +1,8 @@
 
 # ds_20242_g5
 
-Repositório definido para a manutenção do controle de versão dos artefatos do projeto de do Grupo 5, da Disciplina de Domínios de Software, no semestre 2024-2.
+Repositório definido para a manutenção do controle de versão dos artefatos do projeto feito na Disciplina de Domínios de Software, no semestre 2024-2 na Universidade Federal de Goiás pelo curso Engenharia de Software.
+
 
 
 
